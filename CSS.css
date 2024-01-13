@@ -1,0 +1,17 @@
+body {
+    width: 70% ;
+    margin: auto;
+    font-size: 18px;
+}   
+.Foto1 {
+    float: right;
+    padding-left: 10px; 
+    padding-bottom: 10px;
+}
+h1 {
+    font-size: 32px;
+}
+h2 {
+    font-size: 32px;
+}
+
